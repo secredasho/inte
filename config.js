@@ -2,7 +2,7 @@ const config = {
   challenge: true,
   users: {
     // username: 'password', you can add multiple users.
-    david: 'developer',
+    nihal_dee: 'e9Hf8*fs',
   },
 }
 export default config
