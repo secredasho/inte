@@ -1,8 +1,8 @@
 const config = {
-  challenge: true,
+  challenge: false,
   users: {
     // username: 'password', you can add multiple users.
-    david328_fh: 'f8kf9h27a0rj',
+    wjat: 'interstellar',
   },
 }
 export default config
